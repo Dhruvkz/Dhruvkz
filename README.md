@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning loads of new things
 - 📫 How to reach me -> Message 
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I have pizza lover
+- ⚡ Fun fact: I am pizza lover
 
 <!---
 Dhruvkz/Dhruvkz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
