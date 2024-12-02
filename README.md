@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dhruvkz
+- 👋 Hi, I’m Dhruv
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning loads of new things
 - 📫 How to reach me -> Message/email/call/
